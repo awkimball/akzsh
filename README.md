@@ -1,2 +1,6 @@
 # akzsh
-Personal oh-my-zsh theme
+####My personal oh-my-zsh theme
+
+##Installation
+
+tbd
