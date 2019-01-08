@@ -1,13 +1,12 @@
 # akzsh
+
 #### My personal oh-my-zsh theme
-Ⓐ  username@hostname:current directory
 
-![](img/nogit.png)
+Ⓐ  username@hostname:current directory [branch]
 
-![](img/git.png)
+![Not showing branch](img/nogit.png)
 
-
-
+![Showing branch](img/git.png)
 
 ## Installation
 
@@ -21,6 +20,7 @@
 \* The insall script uses `sed` features specific to OS X and BSD, it could be easily adopted for Unix systems but I haven't tested it
 
 #### Easy
+
 1. Copy `akzsh.zsh-theme` to `~/.oh-my-zsh/custom/themes`
 2. Open `~/.zshrc` in your favorite text editor
 3. Change `ZSH_THEME="ThemeNameHere"` to `ZSH_THEME="akzsh"`
