@@ -1,8 +1,10 @@
 # akzsh
 
-#### My personal oh-my-zsh theme
+#### My simple personal oh-my-zsh theme
 
 Ⓐ  username@hostname:current directory [branch]
+
+Feel free to find the Unicode circled letter representing your first initial and replace the Ⓐ to make it your own! I will update my install script in the future to automatically change it to the letter of your choosing.
 
 ![Not showing branch](img/nogit.png)
 
